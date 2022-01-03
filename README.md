@@ -15,3 +15,5 @@ and longitude geographic location.
 2) we will also see how to potray geographical data into our colab file using plotly library.
 
 3) Finally we build the recommendation system that will recommends a restaurant based on the location data as input by the user. 
+
+## Note - I am working on to add the Complete end-to-end description for this project. Please stay tuned!!
