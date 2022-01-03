@@ -1,5 +1,5 @@
 # Restaurant-Recommendation-App
-We have build a restaurant recommendation system using KMeans Clustering. :relieved:
+We have build a restaurant recommendation system using KMeans Clustering.
 
 # Introduction
 Recommender system has the ability to predict whether a particular user would prefer an item or not based on the user's profile.
